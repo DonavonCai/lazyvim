@@ -4,4 +4,5 @@ return {
     { "tohtml", enabled = false },
     { "tutor", enabled = false },
     { "zipPlugin", enabled = false },
+    { "gitsigns.nvim", enabled = false },
 }
